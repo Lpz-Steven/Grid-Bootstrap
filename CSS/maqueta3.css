@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+}
+#col1{
+    background-color:#cdb4db;
+    border: 1px solid white;
+    height: 80px;
+}
+#col2, #col3, #col4{
+    background-color:#ffc8dd ;
+    border: 1px solid white;
+    margin: 0;
+    height: 120px;
+}
+#col5{
+    background-color: #ffafcc;
+    border: 1px solid white;
+    height: 240px;
+}
+#col6{
+    background-color: #a2d2ff;
+    border: 1px solid white;
+    height: 80px;
+}

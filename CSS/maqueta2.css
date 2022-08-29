@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+}
+#col1{
+    background-color:#2c6e49;
+    border: 5px solid white;
+}
+#col2, #col3, #col4{
+    background-color: #ffc9b9;
+    height: 200px;
+    border: 5px solid white;
+    text-align: center;
+}
+#col5, #col6{
+    background-color:#4c956c;
+    border: 5px solid white;
+    text-align: center;
+}
